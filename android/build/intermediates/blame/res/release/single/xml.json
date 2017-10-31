@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-image-picker/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-image-picker/android/src/main/res/xml/provider_paths.xml"
+    }
+]
